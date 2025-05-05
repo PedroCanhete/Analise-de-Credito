@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo analisar o comportamento de clientes com base em uma base de dados de crédito, com foco na segmentação de perfis, identificação de oportunidades comerciais e previsão de evasão (churn). A partir do tratamento e visualização dos dados, foram exploradas variáveis comportamentais e transacionais para apoiar decisões estratégicas das áreas de CRM, Marketing e Produtos.
 
-Por meio de técnicas de análise exploratória e machine learning, foi possível entender o ciclo de vida dos clientes, identificar padrões de compra e sugerir ações para retenção e aumento do LTV (Lifetime Value).
+Por meio de técnicas de análise exploratória, foi possível identificar padrões e sugerir ações para retenção e aumento do produtos vendidos.
 
 ## Objetivos do Projeto
 - Segmentar os clientes entre ativos, inativos e evadidos com base no histórico de movimentações.
